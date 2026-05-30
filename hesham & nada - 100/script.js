@@ -1,9 +1,9 @@
 // Event Configuration
 const eventConfig = {
     title: 'فرح هشام و ندى',
-    date: '2026-06-29',
-    startTime: '14:00', // Egypt timezone (UTC+3)
-    endTime: '15:00',   // Egypt timezone (UTC+3)
+    date: '2026-06-27',
+    startTime: '19:00', // Egypt timezone (UTC+3)
+    endTime: '22:00',   // Egypt timezone (UTC+3)
     location: 'The Guard Hotel, Sheraton Al Matar, El Nozha, Cairo Governorate 4472111, Egypt',
     locationFull: 'فندق The Guard - شارع الصاعقة - الماظة - القاهرة',
     timezoneId: 'Africa/Cairo'
